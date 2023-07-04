@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(230, 189, 173);
+}
+h1 {
+    color: rgb(129, 17, 17);
+    text-align: center;
+    font-size: 50px;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  } 
+
+*{
+
+    padding: 0%;
+    margin: 2%;
+}
+
+.p {
+   
+    color: rgb(26, 25, 25);
+    width: 1000px;
+    border: 0%;
+
+}
+#filme{
+width: 30%;
+margin: 0%;
+background-color: black;
+padding: o 30px 30px 30px;
+border: 6px white;
+}
+
+*{
+    max-width:  800px;
+    max-height:150px;
+}
+{
+    display: block;
+}
+
